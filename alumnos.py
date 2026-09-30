@@ -1,4 +1,4 @@
-# alumnos.py - Componente principal del sistema
+# alumnos.py - Componente principal actualizado en la rama main
 
 def agregar_alumno(alumnos, nombre):
     alumnos.append(nombre)
